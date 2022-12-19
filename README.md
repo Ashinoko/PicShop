@@ -1,5 +1,5 @@
 # PicShop
-A prototype of a website that sells products(images in this example), with Cart and favorite functionalities. made with ReactJS
+A prototype Online Shop(images in this example), with Cart and favorite functionalities. made with ReactJS
 
 
 ## Requierments
